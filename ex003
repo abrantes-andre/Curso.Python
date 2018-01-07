@@ -1,0 +1,7 @@
+n=bool(input('escreva algo:'))
+print(n.isalpha())
+print(n.isspace())
+print(n.isdecimal())
+print(n.isdecimal())
+ print(n.isalnum())
+print(type(n))
